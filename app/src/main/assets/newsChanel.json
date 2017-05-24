@@ -1,0 +1,26 @@
+ [
+    {
+      "channelId": "5572a108b3cdc86cf39001cd",
+      "name": "国内焦点"
+    },
+    {
+      "channelId": "5572a108b3cdc86cf39001ce",
+      "name": "国际焦点"
+    },
+    {
+      "channelId": "5572a108b3cdc86cf39001cf",
+      "name": "军事焦点"
+    },
+    {
+      "channelId": "5572a108b3cdc86cf39001d4",
+      "name": "体育焦点"
+    },
+    {
+      "channelId": "5572a108b3cdc86cf39001d5",
+      "name": "娱乐焦点"
+    },
+    {
+      "channelId": "5572a108b3cdc86cf39001d6",
+      "name": "游戏焦点"
+    }
+  ]

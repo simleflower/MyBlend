@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyBlend</string>
+    <string name="title_news">新闻</string>
+    <string name="title_joke">笑话</string>
+    <string name="title_picture">美图</string>
+    <string name="title_person">我</string>
+    <string name="title_activity">MainActivity</string>
+    <string name="app_url">http://sharesdk.cn</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="number">cj1234567</string>
+    <string name="flag_end">--end--</string>
+    <string name="load_failed">加载失败，点我再试试？</string>
+    <string name="loading">努力加载中...</string>
+    <string name="share">分享</string>
+    <string name="newsDetail">新闻详情</string>
+    <string name="submit">提交</string>
+    <string name="select_pic_failed">选择图片失败！</string>
+    <string name="checkinfo">请完善您的信息！</string>
+    <string name="select_sex">选择性别</string>
+    <string name="select_age">选择年龄</string>
+    <string name="select_city">城市选择</string>
+    <string name="upload_failed">上传文件失败：</string>
+    <string name="update_userinfo_success">更新用户信息成功:</string>
+    <string name="update_userinfo_failed">更新用户信息失败:</string>
+    <string name="auto_login_failed">自动登录失败</string>
+    <string name="auto_login_third_failed">第三方自动登录失败:</string>
+    <string name="login">登录</string>
+    <string name="more_info">完善个人信息</string>
+    <string name="title_activity_settings">Settings</string>
+
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="setting">设置</string>
+    <string name="upload_photo_success">上传成功</string>
+    <string name="collection">收藏</string>
+
+</resources>

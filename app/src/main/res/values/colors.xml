@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+   <color name="colorPrimaryDark">#303F9F</color>
+   <color name="colorAccent">#FF4081</color>
+
+    <color name="orchid">#DA70D6</color><!--淡紫色 -->
+    <color name="mediumvioletred">#C71585</color><!--中紫罗兰色 -->
+    <color name="darkorchid">#9932CC</color><!--暗紫色 -->
+    <color name="ivory">#FFFFF0</color><!--象牙色 -->
+    <color name="lightcoral">#F08080</color><!--亮珊瑚色 -->
+    <color name="white">#ffffffff</color>
+
+    <color name="drivider_line">#b6b6b6</color>
+    <color name="grey">#dbdbdb</color>
+
+</resources>
